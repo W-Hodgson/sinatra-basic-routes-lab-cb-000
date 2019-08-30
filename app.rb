@@ -9,5 +9,4 @@ class App < Sinatra::Base
   get "/hometown" do
 
   end
-  end
 end
